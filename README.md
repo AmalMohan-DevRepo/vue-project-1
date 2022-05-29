@@ -5,4 +5,5 @@ Simple Vue.js project with basic functionalities
  - computed props
  - watchers
  - conditional rendering
+ - dynamic classes
  - v-for
